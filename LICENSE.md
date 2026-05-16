@@ -1,4 +1,4 @@
-# 
+# new futures arbitrage bot Addon | scalping + multi-exchange-support is the best futures arbitrage bot, featuring scalping and multi-exchange-support. Smart, fast, and optimized
 
 
 
